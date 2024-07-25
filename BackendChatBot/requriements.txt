@@ -14,3 +14,6 @@ langchain-google-genai==1.0.7
 langchain-text-splitters==0.2.2
 langsmith==0.1.93
 requests==2.32.3
+langchain_chroma==0.1.2
+langchain_community==0.2.9
+sentence-transformers==3.0.1
